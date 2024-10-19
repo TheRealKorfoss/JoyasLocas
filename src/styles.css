@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: lightblue; /* Color de fondo gris */
+    background-color: rgb(1, 58, 77); /* Color de fondo gris */
     display: flex;
     justify-content: center; /* Centrar horizontalmente */
     align-items: center; /* Centrar verticalmente */
