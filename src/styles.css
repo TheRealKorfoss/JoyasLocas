@@ -1,16 +1,20 @@
+.titulo-container {
+  text-align: center; /* Centra el texto en el contenedor */
+  margin: 50px 0; /* Espacio arriba y abajo */
+}
+
+.catalogo-link {
+  font-size: 24px; /* Ajusta el tamaño del texto del enlace */
+  color: white; /* Color del texto */
+  text-decoration: none; /* Quitar subrayado */
+  margin: 20px 0; /* Espacio alrededor del enlace */
+}
+
+.catalogo-link:hover {
+  text-decoration: underline; /* Agregar subrayado al pasar el mouse */
+}
 
 
-body {
-    background-color: rgb(1, 58, 77); /* Color de fondo gris */
-    display: flex;
-    justify-content: center; /* Centrar horizontalmente */
-    align-items: center; /* Centrar verticalmente */
-    height: 100vh; /* Altura completa de la ventana */
-    margin: 0; /* Quitar márgenes */
-  }
-  
-  .centered-text {
-    color: white; /* Color del texto */
-    font-size: 24px; /* Tamaño del texto */
-  }
-  
+
+
+
