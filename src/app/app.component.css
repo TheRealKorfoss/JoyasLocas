@@ -1,0 +1,11 @@
+.catalogo {
+    margin-top: 40px; /* Espacio arriba del catálogo */
+    padding: 20px; /* Espaciado interno */
+    background-color: rgba(87, 9, 9, 0.8); /* Fondo blanco con algo de transparencia */
+    border-radius: 8px; /* Bordes redondeados */
+}
+
+.catalogo h2 {
+    font-size: 2em; /* Tamaño de fuente para el título del catálogo */
+    margin-bottom: 10px; /* Espacio debajo del título */
+}
